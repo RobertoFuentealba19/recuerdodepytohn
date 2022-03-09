@@ -1,5 +1,7 @@
 #Aqui comienza el asunto
 #ejemplo
+from os import system
+system ("cls")
 x=0
 y=0
 y=int(input("Ingrese un dato para y: "))
